@@ -25,7 +25,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/bowligth/m109-6.2.git
+      uri: https://github.com/chillivin/Aufgabe-6.22-plus
     contextDir: /app
     sourceSecret:
       name: html-openshift-app-github
